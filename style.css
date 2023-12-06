@@ -1,0 +1,32 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h2 {
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#footer {
+    background-color: whitesmoke;
+    margin: 0;
+    width: 100%;
+    line-height: 2;
+}
+
+canvas{
+    border: 2px whitesmoke dotted;
+}
+
+.modal-dialog{
+    width: 80%;
+}
